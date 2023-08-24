@@ -1,0 +1,6 @@
+[book]
+authors = ["KriukovIuN"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Team portfolio"
