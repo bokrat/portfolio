@@ -10,8 +10,9 @@
 
 ## Подробный кейс и результаты работы
 
->**Используемый стек технологий**: Kubernetes, Gitlab, Helm, Docker,
->Nexus, Consul, cert-manager, Vault, Keycloak, Ceph, Terraform, Ansible.
+```admonish info
+Используемый стек технологий**: Kubernetes, Gitlab, Helm, Docker, Nexus, Consul, cert-manager, Vault, Keycloak, Ceph, Terraform, Ansible.
+```
 
 ### Решение
 Реализован переход на контейнерную технологию и внедрен `CI/CD`:

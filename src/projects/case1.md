@@ -8,12 +8,9 @@
 
 ## Подробный кейс и результаты работы
 
-> **Используемый стек технологий**: Kubernetes, GHES (GitHub Enterprise
-> server), GitOps, Flux CD, Helm, Docker, Podman, SOPS, age, mdbook,
-> CRI-O, JFrog Artifactory, cert-manager, Vault, Keycloak, Ceph,
-> Terraform, Packer, Ansible, Python, zalando, postgres-operator,
-> Patroni, percona-operator, MinIO, Redis, Kafka, Strimzi, ExternalDNS,
-> PowerDNS, phpIPAM, PureLB, Ironic, Keepalived, Let's Encrypt, Metal^3^
+```admonish info
+Используемый стек технологий: Kubernetes, GHES (GitHub Enterprise server), GitOps, Flux CD, Helm, Docker, Podman, SOPS, age, mdbook, CRI-O, JFrog Artifactory, cert-manager, Vault, Keycloak, Ceph, Terraform, Packer, Ansible, Python, zalando, postgres-operator, Patroni, percona-operator, MinIO, Redis, Kafka, Strimzi, ExternalDNS, PowerDNS, phpIPAM, PureLB, Ironic, Keepalived, Let's Encrypt, Metal^3^
+```
 
 ### Решение
 

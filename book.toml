@@ -4,8 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Team portfolio"
-[output.html.fold]
-enable = true
 # [preprocessor.pagetoc]
 [preprocessor.toc]
 command = "mdbook-toc"

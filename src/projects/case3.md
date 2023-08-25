@@ -8,8 +8,9 @@
 
 ## Подробный кейс и результаты работы
 
->**Используемый стек технологий**: Hadoop Hortonworks, Ranger, NiFi,
->Aerospike, Hbase, Kafka, Kerberos, SSSD, Java
+```admonish info
+Используемый стек технологий: Hadoop Hortonworks, Ranger, NiFi, Aerospike, Hbase, Kafka, Kerberos, SSSD, Java.
+```
 
 ### Решение
 Масштабирование вычислительных мощностей приложения реализовано в зависимости от объема входных данных в парадигме MapReduce. Предприняты следующие действия:
