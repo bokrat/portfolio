@@ -7,7 +7,6 @@ title = "Team portfolio"
 [preprocessor.toc]
 command = "mdbook-toc"
 renderer = ["html"]
-marker = "* auto-gen TOC;\n{:toc}"
 [preprocessor.admonish]
 command = "mdbook-admonish"
 [output.html]
