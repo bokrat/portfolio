@@ -11,7 +11,7 @@
 ## Подробный кейс и результаты работы
 
 ```admonish info
-Используемый стек технологий**: Kubernetes, Gitlab, Helm, Docker, Nexus, Consul, cert-manager, Vault, Keycloak, Ceph, Terraform, Ansible.
+Используемый стек технологий: Kubernetes, Gitlab, Helm, Docker, Nexus, Consul, cert-manager, Vault, Keycloak, Ceph, Terraform, Ansible.
 ```
 
 ### Решение
