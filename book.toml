@@ -4,3 +4,12 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Team portfolio"
+[output.html.fold]
+enable = true
+[preprocessor.pagetoc]
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "2.0.0"
+[output.html]
+additional-css = ["theme/pagetoc.css","theme/mdbook-admonish.css"]
+additional-js  = ["theme/pagetoc.js"]
